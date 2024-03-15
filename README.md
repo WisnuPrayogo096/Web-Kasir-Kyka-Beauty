@@ -33,34 +33,4 @@ Kasir / POS (Point of Sale) adalah web aplikasi yang berfungsi untuk tempat di m
   
   </ol>
   
-   ________________________________________________________________________________________________________________________________________________________________
-   
-   <strong>Langkah-langkah untuk menggunakan website ini</strong>
-     <ol type="1">
-    <li>Download repository</li>
-    <li>Ekstrak file pada direktori server</li>
-    <li>import file database "kasir_zibran.sql"</li>
-    <li>Masuk ke browser ketik "localhost/web-kasir-master/"</li>
-    
-  </ol>
-  
-  <b><h3>Password Default : </h3></b><br>
-  
-  1. <b>Admin</b><br>
-    Username = admin<br>
-    Password = admin<br><br>
-    
-  2. <b>Kasir</b><br>
-    Username = kasir<br>
-    Password = kasir
-  
-  
-  
-  -> Catatan(PENTING) :
-    <i>Sebelum mengimport database, pastikan anda membuat database sesuai dengan nama database yang ada di dalam folder db, yaitu 'kasir_zibran.sql'</i>
------------------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Jika ada bagian yang error atau yang ada ingin ditambahkan mohon hubungi :
-1. Whatsapp = 0895635729348<br>
-<strong> HARAP JANGAN MENGUBAH COPYRIGHT YANG ADA DI FOOTER WEBSITE!</strong>
 # web-kasir
